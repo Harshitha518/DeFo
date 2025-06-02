@@ -6,6 +6,6 @@ This is my winning playground submission for Apple’s Swift Student Challenge 2
 
 ### Featured Featured in TechRadar article: “I met two incredible teenage Swift coders who might care more about climate change than you” -- [Read the article here](https://www.techradar.com/computing/websites-apps/i-met-two-incredible-teenage-swift-coders-who-might-care-more-about-climate-change-than-you)
 
-### Featured in Fast Company article: “Apple Swift Student Challenge: Student Coders Creating Impactful Apps”: [Read the article here](https://www.fastcompany.com/91113139/apple-swift-student-challenge-student-coders)
+### Featured in Fast Company article: “Apple Swift Student Challenge: Student Coders Creating Impactful Apps” - [Read the article here](https://www.fastcompany.com/91113139/apple-swift-student-challenge-student-coders)
 
 ### Featured on [AppStories Episode 381: Apple’s Swift Student Challenge](https://www.macstories.net/linked/appstories-episode-381-apples-swift-student-challenge/) — Podcast discussing the challenge and student coders
