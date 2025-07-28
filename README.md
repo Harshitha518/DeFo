@@ -4,7 +4,7 @@ This is my winning playground submission for Apple’s Swift Student Challenge 2
 ## Media & Recognition
 ### To learn more about my submission: [https://www.wwdcscholars.com/Harshitha-Rajesh/2024](https://www.wwdcscholars.com/s/D39FDE9F-62B0-4AB6-9F1F-00D295B11B90/2024)
 
-### Featured Featured in TechRadar article: “I met two incredible teenage Swift coders who might care more about climate change than you” -- [Read the article here](https://www.techradar.com/computing/websites-apps/i-met-two-incredible-teenage-swift-coders-who-might-care-more-about-climate-change-than-you)
+### Featured in TechRadar article: “I met two incredible teenage Swift coders who might care more about climate change than you” -- [Read the article here](https://www.techradar.com/computing/websites-apps/i-met-two-incredible-teenage-swift-coders-who-might-care-more-about-climate-change-than-you)
 
 ### Featured in Fast Company article: “Apple Swift Student Challenge: Student Coders Creating Impactful Apps” - [Read the article here](https://www.fastcompany.com/91113139/apple-swift-student-challenge-student-coders)
 
